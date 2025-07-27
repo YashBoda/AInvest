@@ -1,33 +1,17 @@
-🧠 AInvest - AI-Powered Stock Investment Advisor
+🚀 Agentic AI – Autonomous Multi-Agent System for Real-Time Financial & Web Intelligence
 
-AInvest is an agentic AI system that helps users make smarter stock investment decisions using historical data analysis, technical indicators, and natural language interfaces. Just input a stock symbol (like AAPL or TSLA) and a desired investment duration, and AInvest will generate detailed insights, technical analysis, and an investment recommendation.
+Built an advanced Agentic AI system designed for dynamic financial analysis and contextual reasoning using autonomous agents. This project utilizes LangChain, LangGraph, and tool-integrated agents to create a flexible, decision-driven AI pipeline.
 
-🚀 Features
-📈 Historical Price Analysis (powered by yfinance)
+🧠 Key Capabilities:
+Autonomous Agent Framework with LangGraph for orchestrated decision-making flows
 
-📊 Technical Indicators:
-RSI (Relative Strength Index)
-MACD
-Moving Averages (SMA/EMA)
+Real-time financial data via integrated YFinance tools for fundamentals, price history, and live updates
 
-💬 LLM Integration:
-Natural language summary generation
-Agentic reasoning using tools and planning
+Web intelligence through Tavily API and Google News for current events, sentiment, and news summaries
 
-🧠 LangGraph + LangChain:
-Tool-augmented LLMs with stateful planning
+Python REPL Agents for on-the-fly computation and data analysis
 
-🔧 Modular architecture using:
-PythonREPLTool
-Custom data tools
-LangGraph state machine
+Custom tools & memory modules to track context and evolve agent behavior over time
 
-🛠️ Tech Stack
-LangChain
-LangGraph
-OpenAI or Gemini (LLM)
-yfinance
-pandas, numpy, matplotlib
-dotenv for API keys
-Python 3.9+
-
+🧰 Tech Stack:
+LangChain · LangGraph · Python · YFinance · Tavily · Google News API · Dotenv · Autonomous Tooling · State Memory
